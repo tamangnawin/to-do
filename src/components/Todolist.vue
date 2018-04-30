@@ -23,18 +23,7 @@ export default {
       newTodo: '',
       idForTodo: 3,
       todos: [
-        {
-          'id': 1,
-          'title': 'Complete SASS',
-          'completed': false,
-          'editing': false,
-        },
-        {
-          'id': 2,
-          'title': 'Submit the todo App',
-          'completed': false,
-          'editing': false,
-        },
+        
       ]
     }
   },
